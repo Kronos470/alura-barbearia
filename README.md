@@ -13,14 +13,36 @@
 
 ## :book: Descrição do Projeto
 
-<p>Este projeto foi realizado por mim durante o estudo no curso da Alura sobre "JavaScript para Web: Crie páginas dinâmicas". Se trata de um site simples com 9 butões na tela que reproduz audios específicos ao serem pressionados. Além de possuir carga horária de 10h, ele aborda os seguintes tópicos:</p>
+<p>Este projeto foi realizado por mim durante o estudo nos cursos da Alura sobre "HTML5 e CSS3 parte 1/2/3/4". Se trata de um site de barbearia com 3 paginas, a principal contendo informações básicas, a de produtos com os serviços prestados e a contato para deixar seu contato, sendo apenas demonstrações de uma barbearia fictícia. Além de possuir uma carga horária total de 32h, ele aborda os seguintes tópicos:</p>
 
-* Identificar os papéis de cada tecnologia da Web para construção de páginas
-* Associar o JavaScript com HTML através do DOM
-* Implementar funções com JavaScript
-* Investigar possibilidades de resolução de problemas de código
-* Selecionar operadores lógicos adequados para diferentes situações
-* Produzir soluções simples para páginas dinâmicas
+```Parte 1: Crie uma página da Web (8h)```
+* Aprenda o que é o HTML e o CSS
+* Entenda a estrutura básica de um arquivo HTML
+* Utilize o navegador para inspecionar elementos
+* Aprenda a definir estilos para elementos usando o CSS
+* Desenvolva um página Web
+
+```Parte 2: Posicionamento, listas e navegação (8h)```
+* Aprenda a estrutura da página HTML
+* Navegue entre páginas web
+* Conheça reset.css e o posicionamento pelo CSS
+* Entenda a diferença entre inline e block
+* Lide com bordas e pseudo-classes CSS
+
+```Parte 3: Trabalhando com formulários e tabelas (8h)```
+* Crie formulários complexos
+* Trabalhe com campos para celulares
+* Apresente informações em tabelas
+* Use estilos para formulários, campos e tabelas
+* Entenda a hierarquia no CSS
+* Trabalhe com transformações e transições
+
+```Parte 4: Avançando no CSS (8h)```
+* Importe conteúdo externo na sua página HTML, como fontes, vídeos e mapas
+* Conheça pseudo-classes e pseudo-elementos
+* Use seletores de CSS avançados
+* Saiba como lidar com opacidade e sombra
+* Entenda sobre o Viewport e design responsivo
 
 ## :white_check_mark: Status do Projeto
 
@@ -32,18 +54,17 @@
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82409462/185419095-dcb58a11-0a98-4fb1-8668-d4e866a31b18.jpg" alt="Demonstração de Alura Midi, contendo 9 botões com efeitos sonoros escritos em cada um" width=30%>
+  <img src="https://user-images.githubusercontent.com/82409462/186499221-2b1e38ff-f966-4f03-917b-783fd8c72990.jpg" alt="Demonstração de Alura Barbearia, mostrando a página de produtos do site fictício de barbearia" width=60%>
 </p>
 
 ## :open_file_folder: Acesso ao Projeto
 
-**Você pode acessar o site criado nesse projeto através desse [link](https://kronos470.github.io/alura-midi/).**
+**Você pode acessar o site criado nesse projeto através desse [link](https://kronos470.github.io/alura-barbearia/).**
 
 ## :wrench: Tecnologias utilizadas
 
 * ```HTML```
 * ```CSS```
-* ```Javascript```
 * ```Visual Code Studio```
 * ```Git```
 * ```GitHub```
