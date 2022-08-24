@@ -1,0 +1,73 @@
+/* css principal */
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+header{
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav{
+	position: absolute;
+	top: 110px;
+	right: 50px;
+}
+
+nav li{
+	display: inline;
+	margin: 0 7.5px 0;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+footer{
+	text-align: center;
+	background: url("../images/bg.jpg");
+	padding: 40px 0;
+}
+
+.copyright{
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0;
+}
+
+@media screen and (max-width: 940px) {
+	.caixa{
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	h1, nav{
+		text-align: center;
+	}
+
+	nav{
+		position: static;
+	}
+}
+
+@media screen and (max-width: 420px) {
+	nav a{
+		font-size: 1em;
+	}
+}
